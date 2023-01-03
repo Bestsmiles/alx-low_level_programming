@@ -9,6 +9,7 @@
 char *_strstr(char *haystack, char *needle)
 {
 	char *str1, str2;
+
 	while (haystack != '\0')
 	{
 		str1 = haystack;
